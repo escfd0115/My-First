@@ -1,10 +1,10 @@
 asd
-
+<<<<<<< HEAD
 aaaaaa
 ssaaaaaaaaaaaw
 wwdadasd
 
-
+=======
 asdwsxsss
 
 swdeadwasss
@@ -14,4 +14,4 @@ wadddddddddddd
 
 
 wwwwwwwwwwwwwawwwwwwwwwwwwwassssssssss
-
+>>>>>>> cart
